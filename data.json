@@ -2,7 +2,7 @@
   "employee": {
     "id": 101,
     "first_name": "Naresh",
-    "last_name": "Naresh",
+    "last_name": "Kumar",
     "department": "Engineering",
     "department2": "Engineering2",
     "skills": ["Java", "Spring", "Git"]
